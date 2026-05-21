@@ -1,0 +1,16 @@
+{
+  "name": "si-tabnews",
+  "version": "1.0.0",
+  "description": "Este é um tabnews para os alunos da UNINASSAU que estão cursando Sistemas de Informação. O foco é conectar essas pessoas e ao mesmo tempo criar um ambiente de estudo e Networking.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
