@@ -12,6 +12,7 @@ function Home() {
         <strong>Ps:</strong> Caso queira acompanhar a minha saga, eu vou sempre
         atualizar esse site aqui! Quando quiser só conferir gatinha!
       </p>
+      <p>Só uma pequena atualização!</p>
     </div>
   );
 }
